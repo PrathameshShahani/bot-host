@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "db": "^3.3.1",
+    "discord.js": "^13.6.0",
+    "form-data": "^4.0.0",
+    "quick": "^0.0.6",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4"
+  }
+}

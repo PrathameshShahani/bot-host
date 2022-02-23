@@ -1,0 +1,5 @@
+exports.PREFIX = "mt!";
+exports.VERSION="2.1.0";
+
+exports.OWNER_ID = "712591506120114176" // IF U CHANGE PLS CHANGE IN OWNER.JSON ALSO
+
